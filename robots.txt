@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duhocdailoan.kim.edu.vn/sitemap.xml
